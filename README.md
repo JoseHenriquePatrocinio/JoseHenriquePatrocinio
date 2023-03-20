@@ -1,16 +1,23 @@
-### Hi there 👋
+<p>
+    <img src="https://github.com/JoseHenriquePatrocinio/JoseHenriquePatrocinio/blob/main/LocalHost.jpg" align="right" width="300" />
+   Estudante do ensino superior de Análise e Desenvolvimento de Sistemas,possuo habilidades de resolução de problemas e uma paixão por aprender e crescer como
+programador.<a href="mailto:henriquepatrocinio98@gmail.com" target="_blank">Meu contato</a>.
+</p>
 
-<!--
-**JoseHenriquePatrocinio/JoseHenriquePatrocinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+</div>
