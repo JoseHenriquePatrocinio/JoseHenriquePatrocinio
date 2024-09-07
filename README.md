@@ -1,5 +1,5 @@
 <p>
-    <img height="180em" align="right" src="https://github-readme-stats-josehenriquepatrocinios-projects.vercel.app/api/top-langs/?username=JoseHenriquePatrocinio&layout=compact&langs_count=6&theme=dracula"/>
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseHenriquePatrocinio&layout=compact&langs_count=6&theme=dracula"/>
     
    Estudante do ensino superior de Análise e Desenvolvimento de Sistemas,possuo habilidades de resolução de problemas e uma paixão por aprender e evoluir como
 desenvolvedor.
