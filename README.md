@@ -1,5 +1,5 @@
 <p>
-   Estudante do ensino superior de Análise e Desenvolvimento de Sistemas,possuo habilidades de resolução de problemas e uma paixão por aprender e evoluir como
+   Estudante do ensino superior de Análise e Desenvolvimento de Sistemas, possuo habilidades de resolução de problemas e uma paixão por aprender e evoluir como
 desenvolvedor.
 </p>
 <h3 align="left">Languages and Tools:</h3>
